@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Calender Google"
 include(":app")
-include(":mylibrary")
